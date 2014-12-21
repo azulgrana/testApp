@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_blur"
+        android:title="@string/action_photo_unblur"/>
+
+    <item
+        android:id="@+id/action_log_out"
+        android:title="@string/action_logout"/>
+</menu>
+<!-- From: file:/home/azul/AndroidStudioProjects/MyFbPic/app/src/main/res/menu/menu_main.xml -->

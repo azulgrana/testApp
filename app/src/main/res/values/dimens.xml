@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="floating_button_margin">16dp</dimen>
+</resources>

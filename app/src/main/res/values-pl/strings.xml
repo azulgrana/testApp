@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moje zdjęcie</string>
+    <string name="action_logout">Wyloguj</string>
+    <string name="action_photo_blur">Rozmaż</string>
+    <string name="action_photo_unblur">Usuń rozmazanie</string>
+    <string name="user_photo_description">Zdjęcie użytkownika</string>
+    <string name="no_inet_connection">Brak połączenia internetowego</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Social Pic</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_photo_blur">Blur</string>
+    <string name="action_photo_unblur">Unblur</string>
+    <string name="user_photo_description">Photo of the user</string>
+    <string name="no_inet_connection">No Internet connection</string>
+
+    <string name="facebook_app_id">381609635348179</string>
+
+</resources>

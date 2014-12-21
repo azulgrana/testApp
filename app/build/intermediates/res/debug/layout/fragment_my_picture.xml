@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/abc_action_bar_default_height_material">
+
+    <ImageView
+        android:id="@+id/user_pic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitStart"
+        android:contentDescription="@string/user_photo_description"
+        android:src="@drawable/photo_placeholder" />
+
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/btn_refresh"
+        style="@style/FloatingButton"
+        fab:fab_colorNormal="@color/primary"
+        fab:fab_colorPressed="@color/primary_pressed"
+        fab:fab_colorRipple="@color/ripple" />
+
+</RelativeLayout>
+<!-- From: file:/home/azul/AndroidStudioProjects/MyFbPic/app/src/main/res/layout/fragment_my_picture.xml -->
